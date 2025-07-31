@@ -2,6 +2,7 @@
 
 > Sitio web simple construido con HTML y CSS que fue parte de un reto de MDN. Es parte de mi portafolio como desarrollador Front-End.
 
+<br></br>
 
 ## 🚀 Demo
 
